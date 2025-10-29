@@ -1,0 +1,12 @@
+comprac a C
+comprac b M
+auto 1
+move 2 B
+prox 1
+caravana 1
+cidade a
+auto 2
+prox 3
+areia 5 5 2
+tripul 1 5
+terminar

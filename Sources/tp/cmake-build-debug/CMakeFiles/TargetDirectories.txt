@@ -1,0 +1,3 @@
+C:/Users/Utilizador/OneDrive - ISEC/faculdade/poo/zz/poo_2425_DiogoMarquesSilva_2023139070_AndrePessoaTavares_2023155012/tp/tp/cmake-build-debug/CMakeFiles/tp.dir
+C:/Users/Utilizador/OneDrive - ISEC/faculdade/poo/zz/poo_2425_DiogoMarquesSilva_2023139070_AndrePessoaTavares_2023155012/tp/tp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Utilizador/OneDrive - ISEC/faculdade/poo/zz/poo_2425_DiogoMarquesSilva_2023139070_AndrePessoaTavares_2023155012/tp/tp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
